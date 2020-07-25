@@ -1,0 +1,6 @@
+C:\Code\dotNET\ServiceClassExample\ServiceClassExample\bin\Debug\ServiceClassExample.exe.config
+C:\Code\dotNET\ServiceClassExample\ServiceClassExample\bin\Debug\ServiceClassExample.exe
+C:\Code\dotNET\ServiceClassExample\ServiceClassExample\bin\Debug\ServiceClassExample.pdb
+C:\Code\dotNET\ServiceClassExample\ServiceClassExample\obj\Debug\ServiceClassExample.csprojAssemblyReference.cache
+C:\Code\dotNET\ServiceClassExample\ServiceClassExample\obj\Debug\ServiceClassExample.exe
+C:\Code\dotNET\ServiceClassExample\ServiceClassExample\obj\Debug\ServiceClassExample.pdb

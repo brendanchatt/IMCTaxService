@@ -1,0 +1,16 @@
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\ServiceClassTests.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\ServiceClassTests.pdb
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\ServiceClassExample.exe
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\ServiceClassExample.pdb
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\ServiceClassExample.exe.config
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\obj\Debug\ServiceClassTests.csprojAssemblyReference.cache
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\obj\Debug\ServiceClassTests.csproj.CopyComplete
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\obj\Debug\ServiceClassTests.dll
+C:\Code\dotNET\ServiceClassExample\ServiceClassTests\obj\Debug\ServiceClassTests.pdb
